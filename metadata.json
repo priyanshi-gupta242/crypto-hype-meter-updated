@@ -1,0 +1,6 @@
+{
+  "name": "Crypto-Hype Meter",
+  "description": "A real-time intelligence dashboard that visualizes the correlation between a cryptocurrency's price and its social media presence. It empowers users to analyze market trends, sentiment, and spot potential hype cycles.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
